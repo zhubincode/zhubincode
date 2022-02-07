@@ -3,6 +3,8 @@
   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 </p>
 
+[![Zhubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhubincode)](https://github.com/zhubincode)
+
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
@@ -49,7 +51,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/a074b1d99d36db5b72c8ef9c1436a074" target="_blank">📊 每周工作报告</a>
 ```text
-React.js     🕓 25m ███████████████████▋░░░░░░░░░░ 65.8%
+React.js   🕓 25m ███████████████████▋░░░░░░░░░░ 65.8%
 JavaScript 🕓 6m  ████▊░░░░░░░░░░░░░░░░░░░░░░░░░ 16.1%
 JSON       🕓 4m  ███▉░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.0%
 Other      🕓 1m  █▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5.0%
